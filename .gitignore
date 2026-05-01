@@ -1,0 +1,10 @@
+# Folder with all large files
+Results/
+
+# File formats
+*.mat
+*.msh
+*.pdf
+
+# OS information
+.DS_store
